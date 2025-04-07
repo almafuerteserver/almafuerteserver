@@ -26,7 +26,7 @@ POLÍTICAS
 
 9- activar gpupdate (activa gpupdate para las computadoras del dominio)
 
-
+10- bloquear barra de tareas (bloquea el anclaje de aplicaciones otras barra de tarea y el cambio de tamaño y lugar de la barra de tarea)
 
 USUARIOS
 
