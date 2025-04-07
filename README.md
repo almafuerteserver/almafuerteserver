@@ -88,7 +88,12 @@ informatica 7
 
 
 computadoras:
+
 A:
+
 B:
+
 C:
+
 D:1-12
+
