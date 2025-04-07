@@ -30,6 +30,11 @@ POLÍTICAS
 
 11- bloquear cmd(bloquea el acceso al cmd/simbolo del sistema)
 
+12- control de ctrl + alt + supr(quita acceso a administrador de tareas y a cambiar contraseña)
+
+
+
+
 USUARIOS
 
 usuarios - contraseña
