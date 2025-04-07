@@ -1,3 +1,8 @@
+nombre del servidor 
+Almafuerte-sv
+
+
+
 imagen del servidor 
 windows server 2016 con experiencia de escritorio 
 
@@ -22,6 +27,7 @@ POLÍTICAS
 9- activar gpupdate (activa gpupdate para las computadoras del dominio)
 
 
+
 USUARIOS
 
 usuarios - contraseña
@@ -41,19 +47,48 @@ Info7 - Informa7ica
 Administrador - In4m4t1c4!*#4763
 
 
+
+
 DOMINIO
 
 dns 
 
-192.168.128.254 almafuerte-sv.Almafuerte.edu
+192.168.128.254 - almafuerte-sv.Almafuerte.edu 
+(servidor de dominio)
 
-192.168.128.200 pve.almafuerte.edu
+192.168.128.200 - pve.almafuerte.edu 
+(servidor de virtualización)
 
-dominio almafuerte
+dominio: almafuerte
 
-router 192.168.128.1
+router: 192.168.128.1
+
+
 
 tutorial para meter maquinas al dominio:
 
 https://docs.google.com/document/d/1UPAJjJAes72Xfn_NcI4dYSgP0DdM7Qy10E8W0xdSaZ0/edit?usp=drivesdk
 
+
+
+discos locales:
+
+sistema operativo C:
+
+programas D:
+
+carpetas compartidas E:
+
+Construcciones 
+Electromecanica 
+informatica 4
+informatica 5
+informatica 6
+informatica 7
+
+
+computadoras:
+A:
+B:
+C:
+D:1-12
