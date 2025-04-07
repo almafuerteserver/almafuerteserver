@@ -28,6 +28,8 @@ POLÍTICAS
 
 10- bloquear barra de tareas (bloquea el anclaje de aplicaciones otras barra de tarea y el cambio de tamaño y lugar de la barra de tarea)
 
+11- bloquear cmd(bloquea el acceso al cmd/simbolo del sistema)
+
 USUARIOS
 
 usuarios - contraseña
