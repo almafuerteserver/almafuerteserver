@@ -80,11 +80,17 @@ programas D:
 carpetas compartidas E:
 
 Construcciones 
+
 Electromecanica 
+
 informatica 4
+
 informatica 5
+
 informatica 6
+
 informatica 7
+
 
 
 computadoras:
