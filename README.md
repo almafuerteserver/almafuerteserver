@@ -23,23 +23,37 @@ POLÍTICAS
 
 
 USUARIOS
+
 usuarios - contraseña
+
 Const - Const
+
 Electro - Electro
+
 Info4 - Info4
+
 Info5 - Info5
+
 Info6 - Info6
+
 Info7 - Informa7ica 
+
 Administrador - In4m4t1c4!*#4763
 
 
 DOMINIO
+
 dns 
+
 192.168.128.254 almafuerte-sv.Almafuerte.edu
+
 192.168.128.200 pve.almafuerte.edu
+
 dominio almafuerte
+
 router 192.168.128.1
 
 tutorial para meter maquinas al dominio:
+
 https://docs.google.com/document/d/1UPAJjJAes72Xfn_NcI4dYSgP0DdM7Qy10E8W0xdSaZ0/edit?usp=drivesdk
 
