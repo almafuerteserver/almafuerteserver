@@ -36,7 +36,7 @@ POLÍTICAS
 
 14- quitar boton de busqueda en explorador de archivos
 
-15- ocultar carpetas escenciales(oculta los discos locales)
+15- ocultar carpetas escenciales(oculta el discos local C)
 
 
 USUARIOS
