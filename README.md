@@ -86,9 +86,9 @@ discos locales:
 
 sistema operativo C:
 
-programas D:
+disco local D: se guarda todas las copias de seguridad 
 
-carpetas compartidas E:
+programas y carpetas E:
 
 Construcciones 
 
@@ -102,6 +102,7 @@ informatica 6
 
 informatica 7
 
+programas 
 
 
 computadoras:
