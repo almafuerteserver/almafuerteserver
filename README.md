@@ -107,7 +107,7 @@ programas
 
 computadoras:
 
-A:
+A:1-10
 
 B:
 
