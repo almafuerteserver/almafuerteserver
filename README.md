@@ -53,7 +53,7 @@ Info5 - Info5
 
 Info6 - Info6
 
-Info7 - Informa7ica 
+Info7 - Informa7ica2025
 
 Administrador - In4m4t1c4!*#4763
 
