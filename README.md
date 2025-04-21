@@ -43,6 +43,8 @@ USUARIOS
 
 usuarios - contraseña
 
+Basico - Basico
+
 Const - Const
 
 Electro - Electro
