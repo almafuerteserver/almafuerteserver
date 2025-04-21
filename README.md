@@ -32,13 +32,15 @@ POLÍTICAS
 
 12- control de ctrl + alt + supr(quita acceso a administrador de tareas y a cambiar contraseña)
 
-13- bloqueae Win + R (bloquea las combinaciones de teclas win + x)
+13- bloquear Win + R (bloquea las combinaciones de teclas win + x)
 
 14- quitar boton de busqueda en explorador de archivos
 
-15- ocultar carpetas escenciales(oculta el discos local C)
+15- esconder disco local c(oculta el discos local C)
 
+16- bloquear redireccion manual del explirador de archivos 
 
+17- bloquear actualizaciones (bloquea el acceso a windows update de la seccion de apagado)
 USUARIOS
 
 usuarios - contraseña
