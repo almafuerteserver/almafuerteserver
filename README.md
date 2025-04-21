@@ -111,7 +111,7 @@ computadoras:
 
 A:1-10
 
-B:
+B:1-12
 
 C:1-12
 
