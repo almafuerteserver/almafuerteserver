@@ -61,7 +61,7 @@ Info7 - Informa7ica2025
 
 Administrador - In4m4t1c4!*#4763
 
-
+servicio técnico(nets) - Almafuerte#0906
 
 
 DOMINIO
