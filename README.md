@@ -28,19 +28,18 @@ POLÍTICAS
 
 10- bloquear barra de tareas (bloquea el anclaje de aplicaciones otras barra de tarea y el cambio de tamaño y lugar de la barra de tarea)
 
-11- bloquear cmd(bloquea el acceso al cmd/simbolo del sistema)
+11- control de ctrl + alt + supr(quita acceso a administrador de tareas y a cambiar contraseña)
 
-12- control de ctrl + alt + supr(quita acceso a administrador de tareas y a cambiar contraseña)
+12- bloquear Win + R (bloquea las combinaciones de teclas win + x)
 
-13- bloquear Win + R (bloquea las combinaciones de teclas win + x)
+13- quitar boton de busqueda en explorador de archivos
 
-14- quitar boton de busqueda en explorador de archivos
+14- esconder disco local c(oculta el discos local C)
 
-15- esconder disco local c(oculta el discos local C)
+15- bloquear actualizaciones (bloquea el acceso a windows update de la seccion de apagado)
 
-16- bloquear redireccion manual del explirador de archivos 
+16- bloquear administrador de tareas(bloquea la ejecución del administrador de tareas)
 
-17- bloquear actualizaciones (bloquea el acceso a windows update de la seccion de apagado)
 USUARIOS
 
 usuarios - contraseña
