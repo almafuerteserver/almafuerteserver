@@ -40,6 +40,10 @@ POLÍTICAS
 
 16- bloquear administrador de tareas(bloquea la ejecución del administrador de tareas)
 
+17- bloquear fondo de pantalla(impide cambiar el fondo de pantalla(este si funciona))
+
+18- bloquear creacion de tareas-no activado-(su funcion bloquearia funciones del programador de tareas)
+
 USUARIOS
 
 usuarios - contraseña
